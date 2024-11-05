@@ -1,5 +1,5 @@
 ---
-title: 喵
+title: 校园の指南
 weight: 11000
 ---
 
