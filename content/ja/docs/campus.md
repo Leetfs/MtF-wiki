@@ -1,8 +1,10 @@
 ---
-title: 校园指南 weight: 11000
+title: 喵\
+weight: 11000
 ---
 
-民间有对各个大学的生活质量的问卷结果可以在 <https://colleges.chat> 查阅
+一般の方々による各大学の生活の質に関するアンケート結果は、 <https://colleges.chat> でご覧いただけます
 
-{{< notice warning "注意" >}} 为了用户更好的体验，本版块目前已经移至
-[RLE.wiki](https://rle.wiki)，投稿限制降低，增加反馈功能 {{< /notice >}}
+{{< notice warning "注意" >}} ユーザーのより良い体験のため、本セクションは現在
+[RLE.wiki](https://rle.wiki) に移動されており、投稿制限が緩和され、フィードバック機能が追加されています。 {{< /notice
+>}}
