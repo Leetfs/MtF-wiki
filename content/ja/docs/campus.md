@@ -1,5 +1,5 @@
 ---
-title: 喵 weight: 11000
+title: 喵 \n weight: 11000
 ---
 
 一般の方々による各大学の生活の質に関するアンケート結果は、 <https://colleges.chat> でご覧いただけます
