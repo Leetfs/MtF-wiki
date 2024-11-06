@@ -4,6 +4,8 @@ weight: 1
 slug: overview
 ---
 
+ 
+
 {{< alert theme=success >}}
 **ホルモン製品についてページは建設中ですので、ご了承ください。**
 {{< /alert >}}
@@ -33,7 +35,6 @@ slug: overview
 - ホルモン投与期間、タバコを吸わず、お酒を控え、適切な運動をすること。
 - **ホルモンとその他の医薬品を併用する場合には、医師・薬剤師等に相談し、指示に従うこと。詳細は[こちら]({{< ref "risk#drug-interactions" >}})。**
 
-
 ## エストロゲン製剤について
 
 **エストロゲン**（Estrogen）は、**エストロン**（Estrone/E<sub>1</sub>）、**エストラジオール**（Estradiol/E<sub>2</sub>）、**エストリオール**（Estriol/E<sub>3</sub>）の3種類からなり、ステロイドホルモンの一種。一般に卵胞ホルモン、女性ホルモンと呼ばれる。その中でも、エストラジオールは、女性の卵巣から分泌され、最も強い生理活性を持つ卵胞ホルモンの代表的なものであり、MtF に対する GAHT には主に投与される薬剤である[^5]。
@@ -50,9 +51,8 @@ slug: overview
 - 外用薬：貼付用テープ（エストラーナテープ）、塗布用ジェル（オエストロジェル）
 
 {{< notice info "経口剤に関する注意" >}}
-{{< /notice >}}
-
 血中エストラジオール濃度の検査結果により、吉草酸エストラジオール錠の投与群では、エストラジオール錠の投与群と比較して 25% 低くなるので、できるまでエストラジオール錠の使用を推奨すること[^7]。
+{{< /notice >}}
 
 {{< notice warning "大量投与されるエストロゲンに関する注意" >}}
 {{< /notice >}}
@@ -61,8 +61,7 @@ slug: overview
 
 この場合、注射剤（安息香酸エストラジオールを除く）、或いは貼付用テープ２枚以上の投与を推奨すること[^5] [^8] [^9]。生物学的利用率が低いので、経口剤、及び塗布用ジェルはこのために投与しないこと[^5] [^8]。詳細は[こちら]({{< ref "risk" >}})。
 
-
-### MtF に対するエストロゲンの効果 [^1] [^5]
+### エストロゲン製剤について对 MtF 的作用 [^1] [^5]
 
 - 乳房の発達、乳腺組織の増大
 - 皮脂の分泌量が低下し、皮膚がきめ細やかになる
@@ -73,7 +72,7 @@ slug: overview
 - 精巣の萎縮、造精機能喪失、性欲の減退
 - 血中テストステロン濃度を低下させる（高いエストラジオール濃度のみ）
 
-### エストロゲンに関する一般的注意
+### エストロゲン製剤について用药注意事项 {#dosing-warnings}
 
 {{< notice warning "警告" >}}
 医薬品を使用する場合、必ず医師や薬剤師の指示に従って下さい。
@@ -121,6 +120,8 @@ slug: overview
 
 ## GAHT の効果の推定時刻
 
+ 
+
 ```csv
 効果,発生推定時刻,完成推定時刻
 乳房の発達,3 − 6ヶ月,2 − 3 年
@@ -134,6 +135,10 @@ slug: overview
 性機能障害,異なる,異なる
 造精機能喪失,異なる,異なる
 ```
+
+ 
+
+ 
 
 ## GAHT に関する法律・法規・ガイドライン
 
@@ -170,7 +175,6 @@ slug: overview
 {{< meme/onimai-ja >}}
 {{< /alert >}}
 
-
 [^1]: *Medical Care of Trans and Gender Diverse Adults*, Fenway Institute, (2021). <https://www.lgbtqiahealtheducation.org/publication/medical-care-of-trans-and-gender-diverse-adults-2021/>
 [^2]: Weinand et al. '*Hormone therapy in transgender adults is safe with provider supervision; A review of hormone therapy sequelae for transgender individuals*' 2015, Journal of Clinical & Translational Endocrinology, Vol 2, 2, 55-60. <https://doi.org/10.1016/j.jcte.2015.02.003>
 [^4]: Coleman et al. '*Standards of Care for the Health of Transgender and Gender Diverse People, Version 8*' 2022, International Journal of Transgender Health, Vol 23, Suppl_1, S1–S259. <https://doi.org/10.1080/26895269.2022.2100644>
@@ -194,3 +198,5 @@ slug: overview
 [^22]: Aly. '*Low Doses of Cyproterone Acetate Are Maximally Effective for Testosterone Suppression in Transfeminine People*' Transfeminine Science, (2020). <https://transfemscience.org/articles/cpa-dosage/>
 [^23]: Aly. '*Considerations in Understanding the Possible Role and Influence of Progestogens in Terms of Breast Development*' Transfeminine Science, (2020). <https://transfemscience.org/articles/progestogens-breast-dev/>
 [^24]: Aly. '*Recent Developments on Cyproterone Acetate and Meningioma Risk Out of France and Implications for Transfeminine People*' Transfeminine Science, (2020). <https://transfemscience.org/articles/cpa-meningioma/>
+
+ 
