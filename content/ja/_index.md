@@ -7,7 +7,7 @@ landing:
   title:
     - MtF.wiki
   text:
-    - 欢迎来到 MtF.wiki．我们试图整理汇总女性倾向跨性别的相关资料，为大家提供更好的帮助~
+    - MtF.wiki へようこそ。 吾輩は、女性的なトランスジェンダーに関する情報を整理して要約し、より良い支援を提供するよう努めています〜
   titleColor:
   textColor:
   spaceBetweenTitleText: 25
@@ -20,36 +20,36 @@ landing:
   #  height: 600
 footer:
   sections:
-    - title: 项目
+    - title: 計画
       links:
-        - title: 主页 MtF.wiki
+        - title: ホームページ
           link: https://mtf.wiki
-        - title: 源码
+        - title: ソースコード
           link: https://github.com/project-trans/MtF-wiki
         - title: 导航站 2345.LGBT
           link: https://2345.lgbt
     - title: 动态
       links:
         - title: Twitter
-          link: https://twitter.com/MtFwiki
+          link: 資料
         - title: Telegram 频道
           link: https://t.me/MtFwiki
-    - title: 联系
+    - title: 連絡
       links:
         - title: 贡献者指南
           link: /zh-cn/docs/contributor-guide/
         - title: Discord
           link: https://link.mtf.wiki/discord
         - title: Twitter
-          link: https://twitter.com/MtFwiki
+          link: https://twitter.com/MtFwikiJapan
         - title: GitHub
           link: https://github.com/project-trans
-        - title: 电子邮件
+        - title: E-mail
           link: mailto:mtfwiki@project-trans.org
   contents:
     align: left
     applySinglePageCss: true
     markdown: |
       {{< hide-mobile-navbar >}}<img src="/new/mtf-wiki-long.svg" style="height:0.77em;display:inline;vertical-align:baseline;background-color:none;border:none;"/> &copy; 2020-{{< current-year >}} <https://MtF.wiki> All rights reserved. Maintained by {{< project-trans >}}
-      > 我们的存在，就是对恶意最大的反抗。
+      > 私たちの存在は、悪意への最大の反抗である。
 ---
