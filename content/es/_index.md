@@ -1,9 +1,9 @@
 ---
 title: MtF.wiki
-description: MtF.wiki, un lugar que podría echar una mano a mujeres trans y personas transfemininas
+description: MtF.wiki
 landing:
   height: 700
-  image:  new/mtf-wiki-square.svg
+  image: new/mtf-wiki-square.svg
   title:
     - MtF.wiki
   text:
@@ -24,10 +24,20 @@ footer:
       links:
         - title: Homepage
           link: https://mtf.wiki
-        - title: Homepage de proyecto
+        - title: 源码
           link: https://github.com/project-trans/MtF-wiki
+        - title: 导航站 2345.LGBT
+          link: https://2345.lgbt
+    - title: 动态
+      links:
+        - title: Twitter
+          link: https://twitter.com/MtFwiki
+        - title: Telegram 频道
+          link: https://t.me/MtFwiki
     - title: Contacto
       links:
+        - title: 贡献者指南
+          link: /zh-cn/docs/contributor-guide/
         - title: Discord
           link: https://link.mtf.wiki/discord
         - title: Twitter
@@ -39,9 +49,7 @@ footer:
   contents:
     align: left
     applySinglePageCss: true
-    markdown: >
-      {{< hide-mobile-navbar >}}<img src="/new/mtf-wiki-long.svg" style="height:0.77em;display:inline;vertical-align:baseline;background-color:none;border:none;"/>
-      &copy; 2020-{{< current-year >}} <https://MtF.wiki> All rights reserved. Maintained by {{< project-trans >}}
-
+    markdown: |
+      {{< hide-mobile-navbar >}}<img src="/new/mtf-wiki-long.svg" style="height:0.77em;display:inline;vertical-align:baseline;background-color:none;border:none;"/> &copy; 2020-{{< current-year >}} <https://MtF.wiki> All rights reserved. Maintained by {{< project-trans >}}
       > Nuestra existencia es resistencia.
 ---
