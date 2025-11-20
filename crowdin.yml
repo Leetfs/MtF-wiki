@@ -5,5 +5,8 @@ files:
   - source: /content/zh-cn/docs/*.md
     translation: /content/%language%/docs/%original_file_name%
 
+  - source: /content/zh-cn/about/*.md
+    translation: /content/%language%/about/%original_file_name%
+
   - source: /content/zh-cn/docs/medicine/*.md
     translation: /content/%language%/docs/medicine/%original_file_name%
