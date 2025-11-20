@@ -1,6 +1,6 @@
 ---
-title: ホルモン医療
-weight: 3
+title: HRT 医疗资源
+weight: 3000
 collapsible: true
-aliases: ../jp
 ---
+
