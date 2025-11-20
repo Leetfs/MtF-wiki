@@ -1,3 +1,33 @@
 files:
-  - source: /content/zh-cn/**/*.md
-    translation: /content/%language%/%original_path%/%original_file_name%
+  - source: /content/zh-cn/*.md
+    translation: /content/%language%/%original_file_name%
+
+  - source: /content/zh-cn/docs/*.md
+    translation: /content/%language%/docs/%original_file_name%
+
+  - source: /content/zh-cn/docs/breast-augmentation/*.md
+    translation: /content/%language%/docs/breast-augmentation/%original_file_name%
+
+  - source: /content/zh-cn/docs/ffs/*.md
+    translation: /content/%language%/docs/ffs/%original_file_name%
+
+  - source: /content/zh-cn/docs/hair-removal/*.md
+    translation: /content/%language%/docs/hair-removal/%original_file_name%
+
+  - source: /content/zh-cn/docs/hrt/*.md
+    translation: /content/%language%/docs/hrt/%original_file_name%
+
+  - source: /content/zh-cn/docs/psyco/*.md
+    translation: /content/%language%/docs/psyco/%original_file_name%
+
+  - source: /content/zh-cn/docs/srs/*.md
+    translation: /content/%language%/docs/srs/%original_file_name%
+
+  - source: /content/zh-cn/docs/useful-info/*.md
+    translation: /content/%language%/docs/useful-info/%original_file_name%
+
+  - source: /content/zh-cn/docs/vocal-surgery/*.md
+    translation: /content/%language%/docs/vocal-surgery/%original_file_name%
+
+  - source: /content/zh-cn/docs/vocal-therapy/*.md
+    translation: /content/%language%/docs/vocal-therapy/%original_file_name%
