@@ -1,44 +1,42 @@
 ---
-title: "關於我們"
-description: "MtF.wiki 致力於成為一個免費、開放且持續更新的跨性別女性知識整合網站"
-weight: 0
+title: "关于我们"
+description: "MtF.wiki 致力于成为一个免费开放且持续更新的跨性别女性知识整合站点"
 hidden-timeliness: true
+weight: 0
 ---
 
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.5.0/font/bootstrap-icons.css">
 
 <img src="/new/mtf-wiki-long.svg" style="background-color:none;border:none;padding:16px 16px 32px" alt="MtF.wiki"/>
 
-{{< mtf-wiki >}} 由 {{< project-trans >}} 維護，致力於成為一個免費、開放且持續更新的跨性別女性知識整合網站
+{{< mtf-wiki >}} 由 {{< project-trans >}} 维护，致力于成为一个免费开放且持续更新的跨性别女性知识整合站点
 
-本專案在 <i class="bi bi-github"></i> GitHub 上開放原始碼：[project-trans/mtf-wiki](https://github.com/project-trans/MtF-wiki)
+本项目 <i class="bi bi-github"></i> GitHub 仓库：<https://github.com/project-trans/MtF-wiki>
 
-本專案
+本项目
 
-<i class="bi bi-link-45deg"></i> 主頁：<https://MtF.wiki>
+<i class="bi bi-link-45deg"></i> 网址：<https://MtF.wiki>
 
 兄弟站：<https://FtM.wiki>
 
-感謝所有 GitHub 貢獻者：
+感谢所有 GitHub 贡献者：
 
 {{< github/contributors >}}
 
-及其他幫助過我們與提供資訊的小可愛們。
+与其他对我们提供帮助和资讯的小可爱们。
 
-（這裡還有位置留給有意願的澳港台朋友～　歡迎與我們聯絡！）
+## 联系方式
 
-## 社群聯絡
-
-電郵 <mtfwiki@project-trans.org>
+邮件 <mtfwiki@project-trans.org>
 
 GitHub {{< shields/github-issue "project-trans/mtf-wiki" >}}
 
 Twitter {{< shields/twitter MtFwiki >}}
 
-## 致謝
+## 致谢
 
-本資料庫在編輯過程中參考了諸多資料，在此一併致謝。
+本项目在编写过程中参考了诸多资料，在此一并致谢。
 
 ---
 
-[![創用 CC 許可協議](https://i.creativecommons.org/l/by-sa/4.0/88x31.png)](https://creativecommons.org/licenses/by-sa/4.0/)
+[![知识共享许可协议](https://i.creativecommons.org/l/by-sa/4.0/88x31.png)](https://creativecommons.org/licenses/by-sa/4.0/)
