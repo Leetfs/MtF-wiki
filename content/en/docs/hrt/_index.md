@@ -1,5 +1,6 @@
 ---
-title: HRT Medical Resources
-weight: 3
+title: HRT 医疗资源
+weight: 3000
 collapsible: true
 ---
+
