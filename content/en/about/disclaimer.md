@@ -1,75 +1,42 @@
 ---
-title: "Disclaimer"
+title: "免责声明"
 ---
 
-<!--Based on Wikipedia https://zh.wikipedia.org/wiki/Wikipedia:%E5%85%8D%E8%B4%A3%E5%A3%B0%E6%98%8E Used under CC-BY-SA 4.0 license, some amendments made-->
+<!--参考自维基百科 https://zh.wikipedia.org/wiki/Wikipedia:%E5%85%8D%E8%B4%A3%E5%A3%B0%E6%98%8E 按CC-BY-SA 4.0 使用-->
 
-**WHEREAS** {{< mtf-wiki >}} decicates to persist as a free, open and continuously updating Website that intergrates information in relation to primarily persons who identify as Transgender women; 
-**WHEREAS** the contents of this Website are primarily drafted and edited by volunteers and may or may not be undergone professional scrutiny;
-**WHEREAS** it is necessary for all of the patreons of this Website to have a clear knowledge of their responsibility;
+{{< mtf-wiki >}} 致力于成为一个免费开放且持续更新的跨性别女性知识整合站点，其内容主要由读者编辑和投稿。我们不保证本网站上的信息完整、准确或可靠。MtF.wiki 上的所有内容仅供参考，**不构成任何形式的专业建议**（包括但不限于医学、法律、心理或其他专业领域的建议）。**MtF.wiki 或其参与者均不为任何因阅读或使用本网站呈现的内容造成的结果负任何责任。**
 
-NOW THEREFORE, IT IS HEREBY EXPRESSLY STATED THAT,
+## 没有正式的同行评审
 
-We cannot guarantee any and all contents of the Website, including but not limited to its completeness, accuracy, reliability, applicability, truthfulness, correctness, logical validity, lawfulness nor reasonableness; 
+MtF.wiki 的内容由志愿者编写，由于各种方面的限制，某些内容可能未经过严格的审查或验证。在采纳本网站内容时，应结合自身实际情况，并在必要时寻求专业人士的建议。
 
-All of the contents on MtF.wiki are for informational purposes ONLY and **DO NOT CONSTITUTE PROFESSIONAL ADVICE OF ANY AND ALL KINDS** \(including but not limited to legal, medical, and psychiatric\); 
+## 内容声明
 
-**MtF.wiki, or any person in relation to it, are NOT RESPONSIBLE for any and all consequences in relation to the comprehension or use of this Website**
+- MtF.wiki 的内容可能缺乏时效性：鉴于事物不断变化，部分内容可能未能及时更新。
+- MtF.wiki 中的一些内容可能被某些读者视为不适或冒犯性内容，例如与暴力、人体解剖学或性行为相关的描绘。
+- 医学、法律或其他专业信息仅供参考，并不能替代专业人士的建议。MtF.wiki 不提供法律或医学建议，请在必要时咨询合资格的专家。
+- MtF.wiki 可能触发一些人的创伤后应激障碍或其他心理反应，请您审慎阅读。
+- MtF.wiki 可能包含会引发癫痫发作或其他健康风险的内容，请您根据自身情况审慎接触。
 
-WITHOUT ADMITTING FACTS OR LIABILITIES OR WRONGS OF ANY KIND, AND WITHOUT LIMITING THE GENERALITY OF THE FOREGOING, **IT IS FURTHER SAID THAT**, 
+## 法律声明
 
-## No Professional peer review
+MtF.wiki 不提供法律意见。尽管 MtF.wiki 包含一些法律相关的内容，但无法对内容的准确性、时效性或适用性提供任何担保。请注意以下几点：
 
-The contents of MtF.wiki are drafted and edited by volunteers. Due to such factual constraint，some of the content may not undergone professional scrutiny. 
+- 法律的适用性可能因地区和时间的不同而变化。即使某条信息在发布时准确无误，也可能不适用于您的特定情况或地区。
+- MtF.wiki 的法律相关信息仅供参考，不能替代合资格法律专业人士的建议。如果您需要法律帮助，请联系您所在地区的律师或法律援助机构。
 
-In discerning and using the contents of the Website, it is advisable to take into account one's own actual reality when necessary.
+## 医学声明
 
-## Content
+MtF.wiki 不提供医学建议。尽管 MtF.wiki 包含一些医学相关的内容，但不保证其准确性或时效性。这些内容主要由非医学专业人士撰写，可能无法完全适用于您的具体情况。请注意以下事项：
 
-- Some of the content of MtF.wiki may lack timeliness. In another words, things in general are constantly changing, and as a result, some of the content may NOT be updated accordingly to reflect the change.
-- Some of the content of MtF.wiki may be regarded by some persons comprehending it as discomforting or offensive, e.g. depictions in relation to violance, human anatomy or sexual intercourse.
-- Any and all of the information of this Website in relation to professional disciplines such as Medicine or Law are for informational purpose only. It does not intended to, nor in fact substitute advice from a qualified professional. 
-- **MtF.wiki DOES NOT PROVIDE LEGAL OR MEDICAL ADVICE**, please consult with a qualified professional when necessary.
-- Some of the contents of MtF.wiki might be in relation to Post-Traumatic Stress Disorder or any other kinds of reactions. MTF.wiki is not responsible for any and ALL kinds of detriments in relation to such reaction. It is advisable for you to consider the potential consequences before comprehending or using the Website.
-- Some of the contents of MtF.wiki may contain contents that might be in relation to an occurence of epilepsy depending the existing conditions of the person using or comprehensing the Website.
+- 医学信息仅供参考，不能替代具备资质的医务人员的诊断或治疗建议。
+- 即使内容准确无误，也可能不适用于您的健康状况。
+- 若有任何健康疑虑，请咨询具备资质的医务人员。
 
-## CONTENT NOT LEGAL ADVICE
+## 产品和服务
 
-MtF.wiki **DOES NOT provide Legal Advice of any kind**. 
+MtF.wiki 中提及的任何机构、服务或产品相关内容仅供参考，不构成任何形式的推荐或保证，也无法对所提及内容的真实性或可靠性提供担保，请您务必谨慎甄别相关信息。
 
-Although MtF.wiki may contain information in relation to jurisprudence，we cannot guarantee the timeliness nor legal validity nor accuracy nor the applicability of such information;
+## 其它
 
-In addition, it is advisable to keep notice that:
-
-- A specific law or the law in general, the validity, interpretation and applicability thereof, may varies depending on jurisdication and time. Notwithstanding the fact that some information may be true and accurate at the time it is published, such information may not be applicable depending on the nature of the subject matter and the jurisdiction thereof.   
-- All of the content on MtF.wiki in relation to jurispurdence are for informational purpose only，Those information cannot substitute advice from a qualified legal professional. If you are in need of legal assistance, it is advisable to contact the attorney at law \( or any other qualified legal professional \), or the Legal Aid Office of the jurisdiction where you are located at.
-
-## CONTENT NOT MEDICAL ADVICE
-
-MtF.wiki **DOES NOT provide Medical Advice of any kind** . 
-
-Although MtF.wiki may contain information in relation to medicine，we cannot guarantee the timeliness nor correctness nor accuracy nor the applicability of such information. 
-
-Those information may be drafted by a person who is not a medical professional and those information may not be applicable towards a specfic medical condition or a specific person; 
-
-In addition, it is advisable to notice that:
-
-- Information regarding to medicine are for informational purpose only, it cannot subsitute the diagnosis or medical advice of any kind from a qualified medical practitioner.
-- Even though some of the information in relation to medicine may be true and accurate at the time published, it may not be applicable towards a specific medical condition of a specific person. 
-- If there is any concern with regard the health of a person, it is advisable to consult with a qualified medical practitioner.
-
-## Goods and Services
-
-Any of the contents contained within MtF.wiki in relation to any and all of the institutions, organizations, individuals, products and services are for informational purposes only. It does not constitute any forms of recommendation, inducement or warranty. 
-
-We cannot guarantee the correctness nor reliability of those information, nor the subject matter the information referred to. 
-
-It is advisable to duly exercise one's diligence while discerning the information in relation to Mtf.wiki. 
-
-## Miscellaneous
-
-For a purpose of courtesy only and without any recommendation or inducement or information or any of those combined,
-
-If you have any questions or require any assistance, please contact <mtfwiki@project-trans.org>
-
- Please enjoy this Website responsibly with your due diligence.  
+如果您有任何疑问或需要帮助，请联系 <mtfwiki@project-trans.org>
