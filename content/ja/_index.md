@@ -7,42 +7,49 @@ landing:
   title:
     - MtF.wiki
   text:
-    - MtF.wiki へようこそ。 吾輩は、女性的なトランスジェンダーに関する情報を整理して要約し、より良い支援を提供するよう努めています〜
-  # the use of 吾輩 is intended, being a salute to the work "I am a cat" by Natsume Souseki
+    - 欢迎来到 MtF.wiki．我们试图整理汇总女性倾向跨性别的相关资料，为大家提供更好的帮助~
   titleColor:
   textColor:
   spaceBetweenTitleText: 25
   buttons:
     - link: docs
-      text: 資料
+      text: 查看文档
       color: primary
   #backgroundImage:
   #  src: images/Transgender_Pride_Flag.webp
   #  height: 600
 footer:
   sections:
-    - title: 計画
+    - title: 项目
       links:
-        - title: ホームページ
+        - title: 主页 MtF.wiki
           link: https://mtf.wiki
-        - title: ソースコード
+        - title: 源码
           link: https://github.com/project-trans/MtF-wiki
-    - title: 連絡
+        - title: 导航站 2345.LGBT
+          link: https://2345.lgbt
+    - title: 动态
       links:
+        - title: Twitter
+          link: https://twitter.com/MtFwiki
+        - title: Telegram 频道
+          link: https://t.me/MtFwiki
+    - title: 联系
+      links:
+        - title: 贡献者指南
+          link: /zh-cn/docs/contributor-guide/
         - title: Discord
           link: https://link.mtf.wiki/discord
         - title: Twitter
-          link: https://twitter.com/MtFwikiJapan
+          link: https://twitter.com/MtFwiki
         - title: GitHub
           link: https://github.com/project-trans
-        - title: E-mail
+        - title: 电子邮件
           link: mailto:mtfwiki@project-trans.org
   contents:
     align: left
     applySinglePageCss: true
-    markdown: >
-      {{< hide-mobile-navbar >}}<img src="/new/mtf-wiki-long.svg" style="height:0.77em;display:inline;vertical-align:baseline;background-color:none;border:none;"/>
-      &copy; 2020-{{< current-year >}} <https://MtF.wiki> All rights reserved. Maintained by {{< project-trans >}}
-
-      > 私たちの存在は、悪意への最大の反抗である。
+    markdown: |
+      {{< hide-mobile-navbar >}}<img src="/new/mtf-wiki-long.svg" style="height:0.77em;display:inline;vertical-align:baseline;background-color:none;border:none;"/> &copy; 2020-{{< current-year >}} <https://MtF.wiki> All rights reserved. Maintained by {{< project-trans >}}
+      > 我们的存在，就是对恶意最大的反抗。
 ---
