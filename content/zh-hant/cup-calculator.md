@@ -22,14 +22,15 @@ hidden-timeliness: true
     border-image-outset: 0px;
   }
 </style>
+
 **計算會在你的電腦上完成，不會向伺服器回傳任何資料**
 
 1. 請準備一條量身軟尺，面向鏡子，要能看到胸部
-1. 請站直、放輕鬆，將軟尺貼合乳房下緣 <span style="text-decoration:underline; text-decoration-thickness: 2px;">⊙⊙</span>，水平方向繞身體量測一圈： <input type="text" id="val1"/> cm
-1. 請呼氣：<input type="text" id="val2"/> cm
-1. 請站直、放輕鬆，將軟尺經乳頭 <span style="text-decoration:line-through; text-decoration-thickness: 2px;">⊙⊙</span> 繞身體量測一圈：<input type="text" id="val3"/> cm
-1. 請俯身 45 度：<input type="text" id="val4"/> cm
-1. 請鞠躬 90 度：<input type="text" id="val5"/> cm
+2. 請站直、放輕鬆，將軟尺貼合乳房下緣 <span style="text-decoration:underline; text-decoration-thickness: 2px;">⊙⊙</span>，水平方向繞身體量測一圈： <input type="text" id="val1"/> cm
+3. 請呼氣：<input type="text" id="val2"/> cm
+4. 請站直、放輕鬆，將軟尺經乳頭 <span style="text-decoration:line-through; text-decoration-thickness: 2px;">⊙⊙</span> 繞身體量測一圈：<input type="text" id="val3"/> cm
+5. 請俯身 45 度：<input type="text" id="val4"/> cm
+6. 請鞠躬 90 度：<input type="text" id="val5"/> cm
 
 <button onclick="cup()" type="submit">計算</button>
 
