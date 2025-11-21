@@ -1,8 +1,8 @@
 ---
 title: "關於我們"
 description: "MtF.wiki 致力於成為一個免費、開放且持續更新的跨性別女性知識整合網站"
-weight: 0
 hidden-timeliness: true
+weight: 0
 ---
 
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.5.0/font/bootstrap-icons.css">
@@ -13,7 +13,7 @@ hidden-timeliness: true
 
 本專案在 <i class="bi bi-github"></i> GitHub 上開放原始碼：[project-trans/mtf-wiki](https://github.com/project-trans/MtF-wiki)
 
-本專案
+本项目
 
 <i class="bi bi-link-45deg"></i> 主頁：<https://MtF.wiki>
 
@@ -24,8 +24,6 @@ hidden-timeliness: true
 {{< github/contributors >}}
 
 及其他幫助過我們與提供資訊的小可愛們。
-
-（這裡還有位置留給有意願的澳港台朋友～　歡迎與我們聯絡！）
 
 ## 社群聯絡
 
