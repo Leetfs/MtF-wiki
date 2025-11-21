@@ -1,5 +1,5 @@
 ---
-title: ホルモン治療・製品情報
-weight: 1
+title: 药物／HRT
+weight: 1000
 collapsible: true
 ---
