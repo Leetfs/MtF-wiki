@@ -5,6 +5,7 @@ slug: overview
 ---
 
 > **歡迎來到 HRT 和藥物介紹板塊。在這裡妳將瞭解到：**
+>
 > - 什麼是 HRT，HRT 對我們有什麼意義？
 > - HRT 可以帶來的用處有哪些？
 > - HRT 需要哪些藥物和干預手段？
@@ -14,6 +15,8 @@ slug: overview
 
 HRT 在這裡特指“**跨性別激素替代療法**”；當下也有更時髦的說法，即“**性別肯定激素治療**”，簡稱 **GAHT**。對於 MtF，其運用雌激素、孕激素、抗雄性素等各種藥物，實現激素狀態和身體特徵的女性化、去男性化，從而緩解性別不安的目的[^1] [^4]；同時，也有助於改善生活質量和精神狀態[^43]。目前的研究表明，在專業醫生的指導和風險把控下進行激素治療是安全的[^2]。在接納和認可自身存在的道路上，運用 HRT 雖未必是所有 MtF 的必經之路，但如有需要，其可以起到莫大作用。
 
+{{< meme/baidu-hrt >}}
+
 ### 事先說明 {#top-notes}
 
 需要理解激素治療的目的和效果，理性預期，**激素不是魔法**；對已結束青春期的大齡者而言尤甚。某些已經完成男性化的特徵是沒辦法藉助 HRT 扭轉的，例如骨骼、聲帶、體毛等。在一些人身上，激素治療所帶來的心理安慰作用可能遠甚於身體反應。如有必要，可同時採取整容、手術等非激素手段以達到女性化目的。
@@ -22,9 +25,8 @@ HRT 在這裡特指“**跨性別激素替代療法**”；當下也有更時髦
 
 **本 wiki 儘可能以簡潔、親切的語言來普及 HRT 相關知識，但因篇幅所限，本 wiki 無法做到面面俱到，也不能代替權威的醫學指導。** 如有可能，**儘量尋求正規治療途徑並規範用藥**。
 
-{{< notice info "請留意" >}}
-以下一般以 **HRT** 代指此類治療，但為避免歧義，可能改用 **GAHT** 來指代。
-{{< /notice >}}
+{{< notice "info" "請留意" >}}
+以下一般以 **HRT** 代指此類治療，但為避免歧義，可能改用 **GAHT** 來指代。{{< /notice >}}
 
 ### 性激素介紹 {#sex-hormones}
 
@@ -52,27 +54,29 @@ HRT 在這裡特指“**跨性別激素替代療法**”；當下也有更時髦
 
 ![curve](/images/medicine/female-e2-p4-curves.png)
 
-圖中虛線是整個週期內雌二醇水平的平均值，接近於 100 pg/mL。我們接受 HRT 同樣以 100 pg/mL 為目標：多份醫學指南都推薦了將雌二醇水平期望值設於 100～200 pg/mL 之間[^1] [^4]；但在實際操作中，短時處於卵泡期範圍內（30 pg/mL 以上）也是足可容忍的——不宜一直處於低位，見[下文]({{< ref "#precautions" >}})。
+圖中虛線是整個週期內雌二醇水平的平均值，接近於 100 pg/mL。我們接受 HRT 同樣以 100 pg/mL 為目標：多份醫學指南都推薦了將雌二醇水平期望值設於 100～200 pg/mL 之間[^1] [^4]；但在實際操作中，短時處於卵泡期範圍內（30 pg/mL 以上）也是足可容忍的——不宜一直處於低位，見\[下文]\({{< ref "#precautions" >}})。
 
-**檢查結果該怎麼看呢？** 主要觀察**雌二醇和睪酮**；推薦觀察催乳素（PRL），發現升高時密切隨訪，詳情在[這裡]({{< ref "monitoring" >}})可見；LH、FSH 僅推薦於青春期阻斷治療期間觀察；黃體酮基本沒有參考意義。下面是成年女性及男性的激素水平參考範圍[^6]：
+**檢查結果該怎麼看呢？** 主要觀察**雌二醇和睪酮**；推薦觀察催乳素（PRL），發現升高時密切隨訪，詳情在\[這裡]\({{< ref "monitoring" >}})可見；LH、FSH 僅推薦於青春期阻斷治療期間觀察；黃體酮基本沒有參考意義。下面是成年女性及男性的激素水平參考範圍[^6]：
 
-| 參考指標 | pg/mL | pmol/L |
-|-|-|-|
-| 雌二醇（卵泡期） | 30 – 100 | 110 – 367 |
-| 雌二醇（黃體期） | 70 – 300 | 257 – 1100 |
-| 雌二醇（男性） | 8 – 35 | 29 – 128 |
+| 參考指標     | pg/mL    | pmol/L     |
+| -------- | -------- | ---------- |
+| 雌二醇（卵泡期） | 30 – 100 | 110 – 367  |
+| 睪酮（男性）   | 70 – 300 | 257 – 1100 |
+| 雌二醇（男性）  | 8 – 35   | 29 – 128   |
 
-| 參考指標 | ng/mL | nmol/L |
-|-|-|-|
-| 睪酮（絕經前女性） | 0.10 – 0.55 | 0.35 – 1.91 |
-| 睪酮（男性） | 2.64 – 9.16 | 9.15 – 31.76 |
-| 催乳素（女性） | 4.79 – 23.3 | |
+| 參考指標      | ng/mL                                       | nmol/L                                       |
+| --------- | ------------------------------------------- | -------------------------------------------- |
+| 睪酮（絕經前女性） | 0.10 – 0.55 | 0.35 – 1.91  |
+| 雌二醇（黃體期）  | 2.64 – 9.16 | 9.15 – 31.76 |
+| 催乳素（女性）   | 4.79 – 23.3 |                                              |
 
 以上參考值可能與檢查報告單所示不同，此時以報告單為準。
 
 如果妳正處於青春期，激素水平一般會低於成年，雌二醇期望值無需向成年靠攏；以不高於 50–60 pg/mL 為宜[^5]。
 
 注射針劑會讓雌二醇水平輕易超出以上參考範圍。以“日雌”（Estradiol valerate 10 mg）為例，注射後預計雌二醇最高可達 590 pg/mL[^9]，實際可能更高。
+
+可運用口服錠，優點同口服
 
 ### 治療內容和檢查方法 {#therapy}
 
@@ -86,24 +90,23 @@ HRT 在這裡特指“**跨性別激素替代療法**”；當下也有更時髦
 
 - [口服雌二醇]({{< ref "estradiol" >}})（Estradiol，如 Estrofem）
 - [口服戊酸雌二醇]({{< ref "estradiol-valerate" >}})（Estradiol valerate，如 Progynova，“益斯得錠”）
-   - 注：口服錠基本上均允許舌下或面頰含服[^26]
+  - 注：口服錠基本上均允許舌下或面頰含服[^26]
 - [外用雌二醇貼片]({{< ref "estradiol-patch" >}})
 - [外用雌二醇凝膠]({{< ref "gel" >}})
 - [注射]({{< ref "injection" >}})（如 Progynon-Depot，即“日雌”）
 
 以上均有傳送門，點選可檢視詳情。各個途徑各有優劣，我們不妨做個比較：
 
-| | 優點 | 缺點 |
-|-|-|-|
-| **口服** | 成本較低；<br>用藥較便利；<br>獲取相對簡單 | 同劑量下利用率較低，效果可能較差 |
-| **舌下/面頰含服** | 可運用口服錠，優點同口服 | 吸收率易受唾液、進食、飲水、說話等影響；<br>持續時間較短，一日內或需多次含服 |
-| **外用貼片** | 使用方便；<br>給藥穩定且持久；<br>不受沐浴、游泳等活動影響 | 成本較高；<br>獲取可能較難；<br>可能引起皮膚反應 |
-| **外用凝膠** | 使用方便且靈活；<br>給藥較持久；<br>獲取較便利 | 成本稍高；<br>可能引起皮膚反應；<br>易受衣物摩擦、沐浴、游泳等活動影響 |
-| **注射** | 唯一可實現單藥治療的途徑；<br>雌二醇水平高，可同時抑制睪酮；<br>給藥持久（一週以上），從而用藥間隔長；<br>綜合成本較低 | 注射瞬間有痛感，部分人可能暈針；<br>可能引起注射部位反應；<br>因注射技術等條件不同，效果不確定性較大；<br>獲取較困難 |
+|             | 優點                                                                | 缺點                                                               |
+| ----------- | ----------------------------------------------------------------- | ---------------------------------------------------------------- |
+| **口服**      | 成本較低；<br>用藥較便利；<br>獲取相對簡單                                         | 同劑量下利用率較低，效果可能較差                                                 |
+| **舌下/面頰含服** | 可运用口服剂，优点同口服；<br>同剂量下利用率较高；<br>静脉血栓风险低于口服                         | 吸收率易受唾液、進食、飲水、說話等影響；<br>持續時間較短，一日內或需多次含服                         |
+| **外用貼片**    | 使用方便；<br>給藥穩定且持久；<br>不受沐浴、游泳等活動影響                                 | 成本較高；<br>獲取可能較難；<br>可能引起皮膚反應                                     |
+| **外用凝膠**    | 使用方便且灵活；<br>静脉血栓风险最低；<br>同剂量下利用率高，给药较持久；<br>获取较便利                 | 成本稍高；<br>可能引起皮膚反應；<br>易受衣物摩擦、沐浴、游泳等活動影響                          |
+| **注射**      | 唯一可實現單藥治療的途徑；<br>雌二醇水平高，可同時抑制睪酮；<br>給藥持久（一週以上），從而用藥間隔長；<br>綜合成本較低 | 注射瞬間有痛感，部分人可能暈針；<br>可能引起注射部位反應；<br>因注射技術等條件不同，效果不確定性較大；<br>獲取較困難 |
 
 {{< alert theme="warning" >}}
-**為什麼一定是雌二醇，其他雌激素不行嗎？**
-{{< /alert >}}
+**為什麼一定是雌二醇，其他雌激素不行嗎？**{{< /alert >}}
 
 現下市面上也有運用其他雌激素製成的藥物，以女性避孕藥為主（如“黛麗安 / Diane-35”），其中包括一種孕激素和以下任意一種人工雌激素：
 
@@ -117,25 +120,23 @@ HRT 在這裡特指“**跨性別激素替代療法**”；當下也有更時髦
 鑑於這些證據，我們僅推薦採用雌二醇來進行 HRT。
 
 {{< alert theme="info" >}}
-**如果我對某種途徑不滿意，可以換用另一種途徑用藥嗎？**
-{{< /alert >}}
+**如果我對某種途徑不滿意，可以換用另一種途徑用藥嗎？**{{< /alert >}}
 
 當然可以。下面是 Aly 老師推算出來的等效劑量對照表[^7]：
 
-| 途徑 | 低劑量 | 中等劑量 | 高劑量 | 超高劑量 |
-| --- | --- | --- | --- | --- |
-| 口服，以雌二醇計 | 2 mg/天 | 4 mg/天 | 8 mg/天 | 12 mg/天 |
-| 舌下或面頰含服，以雌二醇計 | 0.5–1 mg/天 | 1–2 mg/天 | 2–4 mg/天 | 3–6 mg/天 |
-| 透皮貼片 | 50–100 μg/天 | 100–200 μg/天 | 200–400 μg/天 | 300–600 μg/天 |
-| 透皮凝膠 | 1.5 mg/天 | 3 mg/天 | 6 mg/天 | 9 mg/天 |
-| 肌肉或皮下注射 | 1 mg/周 | 2 mg/周 | 4 mg/周 | 6 mg/周 |
-| 雌二醇的大致平均水平 | 50 pg/mL<br>(184 pmol/L) | 100 pg/mL<br>(367 pmol/L) | 200 pg/mL<br>(734 pmol/L) | 300 pg/mL<br>(1101 pmol/L) |
+| 途徑            | 低劑量                                         | 中等劑量                                         | 高劑量                                          | 超高劑量                                          |
+| ------------- | ------------------------------------------- | -------------------------------------------- | -------------------------------------------- | --------------------------------------------- |
+| 口服，以雌二醇計      | 2 mg/天                                      | 4 mg/天                                       | 8 mg/天                                       | 12 mg/天                                       |
+| 舌下或面頰含服，以雌二醇計 | 0.5–1 mg/天                  | 1–2 mg/天                                     | 2–4 mg/天                                     | 3–6 mg/天                                      |
+| 透皮貼片          | 50–100 μg/天                                 | 100–200 μg/天                                 | 200–400 μg/天                                 | 300–600 μg/天                                  |
+| 透皮凝膠          | 1.5 mg/天                    | 3 mg/天                                       | 6 mg/天                                       | 9 mg/天                                        |
+| 肌肉或皮下注射       | 1 mg/周                                      | 2 mg/周                                       | 4 mg/周                                       | 6 mg/周                                        |
+| 雌二醇的大致平均水平    | 50 pg/mL<br>(184 pmol/L) | 100 pg/mL<br>(367 pmol/L) | 200 pg/mL<br>(734 pmol/L) | 300 pg/mL<br>(1101 pmol/L) |
 
-需要注意：經口服或含服的戊酸雌二醇錠劑量大 33%（即：2 mg 戊酸雌二醇 = 1.5 mg 雌二醇）。如果有條件，推薦優先考慮雌二醇錠。
+需要注意：經口服或含服的戊酸雌二醇錠劑量大 33%（即：2 mg 戊酸雌二醇 = 1.5 mg 雌二醇）。达到相同的激素水平下，经口服的雌二醇静脉血栓风险大于含服、经皮、注射。请结合自身健康状况和专业医疗指导选择合适的给药途径、频率和剂量。
 
 {{< alert theme="success" >}}
-**為什麼僅有注射可以實現單藥治療，且同時抗雄？**
-{{< /alert >}}
+**為什麼僅有注射可以實現單藥治療，且同時抗雄？**{{< /alert >}}
 
 我們首先來看看外源性雌二醇和內源性睪酮之間的消長關係。這是患有前列腺癌的男性注射一針長效的聚磷酸雌二醇（Polyestradiol phosphate）以後，體內雌二醇和睪酮的變化[^5] [^30]：
 
@@ -146,8 +147,7 @@ HRT 在這裡特指“**跨性別激素替代療法**”；當下也有更時髦
 除注射劑以外，一般推薦加用一種抗雄性素藥物，詳見[下文]({{< ref "#antiandrogens" >}})。
 
 {{< alert theme="info" >}}
-**雌二醇水平高於 200 pg/mL 的話是否會有更好的女性化效果？**
-{{< /alert >}}
+**雌二醇水平高於 200 pg/mL 的話是否會有更好的女性化效果？**{{< /alert >}}
 
 已知除了對性腺激素釋放素、以及睪酮的產生有抑制作用以外，不會帶來更強的女性化作用[^1] [^14] [^15]。
 
@@ -156,8 +156,8 @@ HRT 在這裡特指“**跨性別激素替代療法**”；當下也有更時髦
 臨床上入藥的孕激素有天然的黃體酮、以及各種人工孕激素。對於 GAHT，臨床主要運用、相關文獻較多的有：
 
 - 黃體酮
-- [Cyproterone acetate]({{< ref "cyproterone" >}})（CPA，大陸稱“醋酸環丙孕酮”，也稱“色普龍”）
 - [Medroxyprogesterone acetate]({{< ref "medroxyprogesterone" >}})（MPA，大陸稱“醋酸甲羥孕酮”）
+- [Cyproterone acetate]({{< ref "cyproterone" >}})（CPA，大陸稱“醋酸環丙孕酮”，也稱“色普龍”）
 
 **孕激素藥物用於 MtF 的記錄較少，且存在爭議**[^4]。一方面，有近期研究顯示，口服黃體酮、注射 MPA 等可改善對乳房發育的滿意程度，且可能和精神狀態的改善有關[^25]；另一方面，口服黃體酮被認為效果較差，不足以促進乳腺增生[^31] [^32]。還有人認為，在 HRT 當中過早引入孕激素可能導致乳房發育不理想[^23]。一般來講，**除非有抗雄這樣的特別需要，否則是無需加用孕激素的。**
 
@@ -167,7 +167,7 @@ MPA 和 CPA 實際上更多作為抗雄藥物使用，詳見[下文]({{< ref "#a
 
 #### 抗雄性素藥物的運用 {#antiandrogens}
 
-一般而言，對於尚留有性腺的 MtF，建議將一種抗雄性素藥物與雌激素合用，來達到理想的女性化效果[^4]。舉個例子，我們從上文的圖表知道，雌二醇一旦低於 200 pg/mL，便不能完全阻止來自性腺的睪酮分泌[^5] [^30]；而“色普龍”本身最多能夠抑制 50～70%[^22] [^33]；二者合用時，睪酮可減少 95%，落入女性範圍內[^22] [^34]。這就是合用的魅力。
+一般而言，對於尚留有性腺的 MtF，建議將一種抗雄性素藥物與雌激素合用，來達到理想的女性化效果[^4]。舉個例子，我們從上文的圖表知道，雌二醇一旦低於 200 pg/mL，便不能完全阻止來自性腺的睪酮分泌[^5] [^30]；而“色普龍”本身最多能夠抑制 50～70%[^22] [^33]；二者合用時，睪酮可減少 95%，落入女性範圍內[^22] [^34]。這就是合用的魅力。  
 經手術切除睪丸（SRS）以後，一般無需加用抗雄藥物。
 
 目前主要應用的抗雄性素藥物有：
@@ -176,10 +176,10 @@ MPA 和 CPA 實際上更多作為抗雄藥物使用，詳見[下文]({{< ref "#a
 - [Medroxyprogesterone acetate]({{< ref "medroxyprogesterone" >}})（MPA，大陸稱“醋酸甲羥孕酮”）
 - [GnRH 類似物]({{< ref "#puberty-blockers" >}})，一般用於青春期阻斷，詳見下文
 - 高劑量雌激素單藥治療，如[注射]({{< ref "injection" >}})，一般无需再加用其他抗雄药物
-   + 以上可**減少雄激素合成、降低雄激素水平**。睪酮檢查報告可直觀反映其效果。注意在用藥初期，睪酮下降需要數日方可完成[^45]，不宜操之過急。
+  - 以上可**減少雄激素合成、降低雄激素水平**。睪酮檢查報告可直觀反映其效果。注意在用藥初期，睪酮下降需要數日方可完成[^45]，不宜操之過急。
 - [Spironolactone]({{< ref "spironolactone" >}})，大陸稱“螺內酯” {{< tag/neg "略不推薦" >}}
 - [Bicalutamide]({{< ref "bicalutamide" >}})，大陸稱“比卡魯胺” {{< tag/neg "不推薦常規應用" >}}
-   + 以上可**作用於雄激素受容體，直接阻斷雄激素活動**。睪酮檢查報告不能反映此類藥物的效果。
+  - 以上可**作用於雄激素受容體，直接阻斷雄激素活動**。睪酮檢查報告不能反映此類藥物的效果。
 
 同樣地，以上也設定了傳送門，點選檢視詳情。這裡簡要介紹其中三種：
 
@@ -190,14 +190,18 @@ MPA 和 CPA 實際上更多作為抗雄藥物使用，詳見[下文]({{< ref "#a
 另外也有利用非那雄胺（Finasteride，一種 5α-還原酵素抑制劑）來阻止二氫睪酮之轉化的報道；但是，其中用於 MtF 的記錄極其稀少，也不清楚在睪酮、二氫睪酮被充分抑制的情況下有何收益[^4] [^35]。現階段不建議加用這類藥物。
 
 {{< alert theme="success" >}}
-**哪一種方案效果是最好的？**
-{{< /alert >}}
+**哪一種方案效果是最好的？**{{< /alert >}}
 
 任何抗雄性素方案之間沒有特別明顯的優劣之分，也缺乏直接比較的證據[^37]，每個人之間可能也有不同的效果；不過，我們還有資料可供參考：近期在中國大陸進行的研究比較了“色普龍”和螺內酯的療效，其中**乳房發育滿意程度**相近，但前者**抑制勃起、促進體形女性化**的作用更明顯[^36]。應當視實際情況選擇最適合自己的一種。
 
 #### 青春期阻斷治療：GnRH 類似物的運用 {#puberty-blockers}
 
-如果**妳處於青春期，且家庭經濟條件和支援情況都允許**，那麼青春期阻斷治療是值得考慮的。簡而言之，這種治療可以推遲青春期，或中斷正在進行的青春期（不晚於 Tanner 三期）；經過一段過渡時間，才開始運用激素治療[^20]。其能夠完全抑制性腺功能，阻止睪酮的分泌。我們正在編寫更詳盡的介紹，但現下不妨參考這篇[舊文章]({{< ref "gnrha" >}})。
+如果**妳處於青春期，且家庭經濟條件和支援情況都允許**，那麼青春期阻斷治療是值得考慮的。簡而言之，這種治療可以推遲青春期，或中斷正在進行的青春期（不晚於 Tanner 三期）；經過一段過渡時間，才開始運用激素治療[^20]。其能夠完全抑制性腺功能，阻止睪酮的分泌。我們正在編寫更詳盡的介紹，但現下不妨參考這篇\[舊文章]\({{< ref "gnrha" >}})。
+
+在中国大陆，只有少数几家提供跨性别序列治疗的医院有条件开展青春期阻断治疗，其中已收录的有：
+
+- [北京大学第三医院]({{< ref "puth" >}})
+- 上海[复旦大学附属儿童医院]({{< ref "fudan-ch" >}})
 
 #### 檢查方法概述 {#monitoring}
 
@@ -241,8 +245,7 @@ MPA 和 CPA 實際上更多作為抗雄藥物使用，詳見[下文]({{< ref "#a
 **如需服用 HRT 以外的任何藥物，務必就<u>藥物相互作用</u>問題諮詢醫師，並查閱仿單相關內容！**
 
 {{< alert theme="danger" >}}
-**發現任何健康問題，請立即就醫！**
-{{< /alert >}}
+**發現任何健康問題，請立即就醫！**{{< /alert >}}
 
 #### 雌激素風險概覽 {#estrogen-risks}
 
@@ -273,78 +276,137 @@ MPA 和 CPA 實際上更多作為抗雄藥物使用，詳見[下文]({{< ref "#a
 - 用藥的原則是在**維持效果的情況下儘量減少用量**。應用激素應當逐步加量，停藥應當逐步減量。
 - 長期 HRT 會減弱性功能、使生育力受損[^18]。如希望**儲存生育力**，建議在 HRT 開始前進行。即使已接受 HRT，停藥後數月內生育力也會緩慢恢復[^12] [^13]——但停藥反應，尤其是精神上的不適可能較明顯，需謹慎安排。
 - 不宜同時出現雌激素和雄激素“雙低”的情況：長此以往，將引起骨質疏鬆、盜汗等一系列更年期症狀[^16]。要維持骨密度，需至少確保其中一種激素居於主導。因此需要留意：
-  + 如不存在血栓風險等特殊情況，一般需**長期服用雌二醇**；即使切除了性腺（SRS）以後亦然[^19]。
-  + 除青春期阻斷之外，一般不建議長期（一個月以上）單用抗雄製劑，這樣會導致雌二醇與睪酮“雙低”。另外對於青春期阻斷，應注意骨密度變化[^20]。詳見《[治療期間的監測]({{< ref "monitoring" >}})》。
-  + 非二元（non-binary）夥伴可留意[下文]({{< ref "#non-binary" >}})，其中推薦以 Raloxifene 等作為雌激素替代，以保持骨密度。
+  - 如不存在血栓風險等特殊情況，一般需**長期服用雌二醇**；即使切除了性腺（SRS）以後亦然[^19]。
+  - 除青春期阻斷之外，一般不建議長期（一個月以上）單用抗雄製劑，這樣會導致雌二醇與睪酮“雙低”。另外對於青春期阻斷，應注意骨密度變化[^20]。詳見《\[治療期間的監測]\({{< ref "monitoring" >}})》。
+  - 非二元（non-binary）夥伴可留意[下文]({{< ref "#non-binary" >}})，其中推薦以 Raloxifene 等作為雌激素替代，以保持骨密度。
 - 激素治療期間，請勿吸菸，酌情飲酒，適量運動。
 
 ## 非常規的治療手段 {#non-binary}
 
-我們注意到有一些自我認同為非二元性別的夥伴希望服用雌激素，但又不希望引起明顯的女性化效果（如乳房發育）。此時可以考慮**選擇性雌激素受容體調節劑**，如雷洛昔芬（Raloxifene）[^42]。此類藥物不僅抑制女性化，也有改善骨密度的功效（作為適應症之一）[^44]，適合作為雌激素的替代選項。
+我們注意到有一些自我認同為非二元性別的夥伴希望服用雌激素，但又不希望引起明顯的女性化效果（如乳房發育）。 此時可以考慮**選擇性雌激素受容體調節劑**，如雷洛昔芬（Raloxifene）[^42]。此類藥物不僅抑制女性化，也有改善骨密度的功效（作為適應症之一）[^44]，適合作為雌激素的替代選項。
+
+## 法律法规上的支持和约束 {#legitimacy}
+
+在中国大陆尚未有任何法律或法规明确支持或反对 GAHT 的开展。但是，对于激素药物的获取，已经有了一定制约：
+
+- 2022 年 11 月 30 日，国家药监局发布《[药品网络销售禁止清单（第一版）](https://link.mtf.wiki/prohibited-drugs/1)》，其中将 **环丙孕酮** 和 **雌二醇** 列为“用药风险较高的品种”和“其他禁止通过网络零售的药品”[^98]。
+- 2023 年 7 月 10 日，国家药监局综合司在《[关于「药品网络销售禁止清单（第一版）」有关问题的复函](https://project-trans.org/china-legal/spec/2023-07-10/fgwj-2023-10001)》中强调禁止含雌二醇单方的复合包装产品经网络销售[^99]。所涉产品含“克龄蒙”。
 
 ## 延伸閱讀 {#further-info}
 
-首先推薦由 Aly 老師和她的夥伴們志願創作的英語網站 *[Transfeminine Science](https://transfemscience.org)*（我們譯作“女性傾向跨性別者科學”）。該網站囊括了和 HRT 相關的方方面面，見解獨到，引經據典，不失為優秀的延伸閱讀材料；我們受益匪淺，四處都有引用其中內容。我們還設立了[翻譯專案](https://tfsci.mtf.wiki)，**不僅翻譯了參考價值較高的一批文章，還收錄了各類 HRT 用藥的仿單和譯文**，絕對不宜錯過。
+首先推薦由 Aly 老師和她的夥伴們志願創作的英語網站 _[Transfeminine Science](https://transfemscience.org)_（我們譯作“女性傾向跨性別者科學”）。該網站囊括了和 HRT 相關的方方面面，見解獨到，引經據典，不失為優秀的延伸閱讀材料；我們受益匪淺，四處都有引用其中內容。我們還設立了[翻譯專案](https://tfsci.mtf.wiki)，**不僅翻譯了參考價值較高的一批文章，還收錄了各類 HRT 用藥的仿單和譯文**，絕對不宜錯過。
 
 最後是我們蒐集的其他材料：
 
-+ WPATH [《跨性別和多元性別人群健康照護指南》第八版](https://wpath.org/soc8)（SOC 8，英語）[^4]
-   + [中文數位版](https://project-trans.org/SOC-8/)
-+ 其他[可提供女性化激素治療相關資訊的臨床指南一覽](https://tfsci.mtf.wiki/zh-tw/articles/transfem-hormone-guidelines/) [^41]
+- WPATH [《跨性別和多元性別人群健康照護指南》第八版](https://wpath.org/soc8)（SOC 8，英語）[^4]
+  - [中文數位版](https://project-trans.org/SOC-8/)
+- 其他[可提供女性化激素治療相關資訊的臨床指南一覽](https://tfsci.mtf.wiki/zh-tw/articles/transfem-hormone-guidelines/) [^41]
 
-- [HRT.Cafe](https://hrtcafe.net/)（英語）
-- [HRT.coffee](https://hrt.coffee)（英語）
-- [DIY HRT Directory](https://diyhrt.wiki)（英語）
-- [DIY HRT (frama)](https://diyhrt.frama.io)（英語）
+* [内分泌学会临床实践指南（1）](https://zhuanlan.zhihu.com/p/41593599) (<https://archive.is/NvPrv>)
+* [内分泌学会临床实践指南（2）](https://zhuanlan.zhihu.com/p/41595527) (<https://archive.is/3stGg>)
+* Adeleye, A. J., Reid, G., Kao, C. N., et al. (2019). Semen Parameters Among Transgender Women With a History of Hormonal Treatment. _Urology_, **124**, 136-141. <https://doi.org/10.1016/j.urology.2018.10.005>
+* [医院医保开 HRT 药物流程](https://zhuanlan.zhihu.com/p/387187000) (<https://archive.is/vU33l>)
+* [HRT.Cafe](https://hrtcafe.net/)（英語）
+* [HRT.coffee](https://hrt.coffee)（英語）
+* [DIY HRT Directory](https://diyhrt.wiki)（英語）
+* [DIY HRT (frama)](https://diyhrt.frama.io)（英語）
 
 {{< alert theme=info >}}
 {{< meme/onimai-zh >}}
 {{< /alert >}}
 
-[^1]: Thompson, J,, Hopwood, R. A., de Normand, S., et al. (2021). Medical Care of Trans and Gender Diverse Adults. *Fenway Health*. <https://www.lgbtqiahealtheducation.org/publication/medical-care-of-trans-and-gender-diverse-adults-2021/>
-[^2]: Weinand, J. D., Safer, J. D. (2015). Hormone therapy in transgender adults is safe with provider supervision; A review of hormone therapy sequelae for transgender individuals. *Journal of Clinical & Translational Endocrinology*, 2(2), 55-60. <https://doi.org/10.1016/j.jcte.2015.02.003>
-[^3]: Stricker, R., Eberhart, R., Chevailler, M., et al. (2006). Establishment of detailed reference values for luteinizing hormone, follicle stimulating hormone, estradiol, and progesterone during different phases of the menstrual cycle on the Abbott ARCHITECT® analyzer. *Clinical Chemistry and Laboratory Medicine*, 44(7), 883–887. <https://doi.org/10.1515/CCLM.2006.160>
-[^4]: Coleman, E., Radix, A. E., Bouman, W. P., et al. (2022). Standards of Care for the Health of Transgender and Gender Diverse People, Version 8. *International Journal of Transgender Health*, *23*(Suppl 1), S1–S259. <https://doi.org/10.1080/26895269.2022.2100644>
-[^5]: Aly. (2018). An Introduction to Hormone Therapy for Transfeminine People. *Transfeminine Science*. <https://transfemscience.org/articles/transfem-intro/> 【[譯文](https://tfsci.mtf.wiki/zh-tw/articles/transfem-intro/)】
+[^1]: Thompson, J,, Hopwood, R. A., de Normand, S., et al. (2021). Medical Care of Trans and Gender Diverse Adults. _Fenway Health_. <https://www.lgbtqiahealtheducation.org/publication/medical-care-of-trans-and-gender-diverse-adults-2021/>
+
+[^2]: Weinand, J. D., Safer, J. D. (2015). Hormone therapy in transgender adults is safe with provider supervision; A review of hormone therapy sequelae for transgender individuals. _Journal of Clinical & Translational Endocrinology_, 2(2), 55-60. <https://doi.org/10.1016/j.jcte.2015.02.003>
+
+[^3]: Stricker, R., Eberhart, R., Chevailler, M., et al. (2006). Establishment of detailed reference values for luteinizing hormone, follicle stimulating hormone, estradiol, and progesterone during different phases of the menstrual cycle on the Abbott ARCHITECT® analyzer. _Clinical Chemistry and Laboratory Medicine_, 44(7), 883–887. <https://doi.org/10.1515/CCLM.2006.160>
+
+[^4]: Coleman, E., Radix, A. E., Bouman, W. P., et al. (2022). Standards of Care for the Health of Transgender and Gender Diverse People, Version 8. _International Journal of Transgender Health_, _23_(Suppl 1), S1–S259. <https://doi.org/10.1080/26895269.2022.2100644>
+
+[^5]: Aly. (2018). An Introduction to Hormone Therapy for Transfeminine People. _Transfeminine Science_. <https://transfemscience.org/articles/transfem-intro/> 【[譯文](https://tfsci.mtf.wiki/zh-tw/articles/transfem-intro/)】
+
 [^6]: Esoterix/LabCorp. (2020). Endocrinology Expected Values and S.I. Unit Conversion Tables. \[[PDF 檔案](https://specialtytesting.labcorp.com/sites/default/files/2021-07/L5167-0421-18%20Endocrine%20Expected%20Values_0.pdf)]
-[^7]: Aly. (2020). Approximate Comparable Dosages of Estradiol by Different Routes. *Transfeminine Science*. <https://transfemscience.org/articles/e2-equivalent-doses/> 【[譯文](https://tfsci.mtf.wiki/articles/e2-equivalent-doses/)】
-[^8]: Jorgensen, S. C. J. (2023). Transition Regret and Detransition: Meanings and Uncertainties. *Archives of Sexual Behavior*, 52(5), 2173–2184. <https://doi.org/10.1007/s10508-023-02626-2>
-[^9]: Aly. (2021). An Informal Meta-Analysis of Estradiol Curves with Injectable Estradiol Preparations. *Transfeminine Science*. <https://transfemscience.org/articles/injectable-e2-meta-analysis/> 【[譯文](https://tfsci.mtf.wiki/zh-tw/articles/injectable-e2-meta-analysis/)】
-[^10]: Aly. (2020). Bicalutamide and its Adoption by the Medical Community for Use in Transfeminine Hormone Therapy. *Transfeminine Science*. <https://transfemscience.org/articles/bica-adoption/> 【[譯文](https://tfsci.mtf.wiki/zh-tw/articles/bica-adoption/)】
-[^11]: REX Medical Ltd. (2020). New Zealand Datasheet: SITERONE. *Medsafe*. <https://www.medsafe.govt.nz/profs/datasheet/s/Siteronetab.pdf> 【[譯文](https://tfsci.mtf.wiki/zh-tw/misc/siterone-nz/)】
-[^12]: Ainsworth, A. J., Allyse, M., Khan, Z. (2020). Fertility Preservation for Transgender Individuals: A Review. *Mayo Clinic Proceedings*, 95(4), 784-792. <https://doi.org/10.1016/j.mayocp.2019.10.040>
-[^13]: Adeleye, A. J., Reid, G., Kao, C. N., et al. (2019). Semen Parameters Among Transgender Women With a History of Hormonal Treatment. *Urology*, **124**, 136-141. <https://doi.org/10.1016/j.urology.2018.10.005>
-[^14]: Aly. (2020). Estrogens and Their Influences on Coagulation and Risk of Blood Clots. *Transfeminine Science*. <https://transfemscience.org/articles/estrogens-blood-clots/> 【[譯文](https://tfsci.mtf.wiki/zh-tw/articles/estrogens-blood-clots/)】
-[^15]: Nolan, B. J., & Cheung, A. S. (2021). Relationship Between Serum Estradiol Concentrations and Clinical Outcomes in Transgender Individuals Undergoing Feminizing Hormone Therapy: A Narrative Review. *Transgender Health*, *6*(3), 125–131. <https://doi.org/10.1089/trgh.2020.0077>
-[^16]: Novartis. (2017). ESTRADERM&reg; Prescribing Information & Patient Information. *Drugs@FDA*. <https://www.accessdata.fda.gov/drugsatfda_docs/label/2012/019081s042lbl.pdf> 【[譯文](https://tfsci.mtf.wiki/zh-tw/misc/estraderm/)】
-[^17]: Aly. (2020). Breast Cancer Risk with Hormone Therapy in Transfeminine People. *Transfeminine Science*. <https://transfemscience.org/articles/breast-cancer/> 【[譯文](https://tfsci.mtf.wiki/zh-tw/articles/breast-cancer/)】
-[^18]: Cox, L. R., & Crawford, D. E. (1995). Estrogens in the Treatment of Prostate Cancer. *The Journal of Urology*, 154(6), 1991-1998. <https://doi.org/10.1016/S0022-5347(01)66670-9>
-[^19]: Nishiyama, T. (2014). Serum testosterone levels after medical or surgical androgen deprivation: A comprehensive review of the literature. *Urologic Oncology: Seminars and Original Investigations*, 32(1), 38.e17-38.e28. <https://doi.org/10.1016/j.urolonc.2013.03.007>
-[^20]: Mitzi. (2022). Puberty Blockers: A Review of GnRH Analogues in Transgender Youth. *Transfeminine Science*. <https://transfemscience.org/articles/puberty-blockers/> 【[譯文](https://tfsci.mtf.wiki/zh-tw/articles/puberty-blockers/)】
-[^21]: Aly. (2018). A Review of Studies on Spironolactone and Testosterone Suppression in Cisgender Men, Cisgender Women, and Transfeminine People. *Transfeminine Science*. <https://transfemscience.org/articles/spiro-testosterone/> 【[譯文](https://tfsci.mtf.wiki/zh-tw/articles/spiro-testosterone/)】
-[^22]: Aly. (2019). Low Doses of Cyproterone Acetate Are Maximally Effective for Testosterone Suppression in Transfeminine People. *Transfeminine Science*. <https://transfemscience.org/articles/cpa-dosage/> 【[譯文](https://tfsci.mtf.wiki/zh-tw/articles/cpa-dosage/)】
-[^23]: Aly. (2020). A Comprehensive Review of the Potential of Progestogens for Enhancing Breast Development in Transfeminine People. *Transfeminine Science*. <https://transfemscience.org/articles/progestogens-breast-dev/> 【[譯文](https://tfsci.mtf.wiki/zh-tw/articles/progestogens-breast-dev/)】
-[^24]: Aly. (2020). Recent Developments on Cyproterone Acetate and Meningioma Risk Out of France and Implications for Transfeminine People. *Transfeminine Science*. <https://transfemscience.org/articles/cpa-meningioma/> 【[譯文](https://tfsci.mtf.wiki/zh-tw/articles/cpa-meningioma/)】
-[^25]: Bahr, C., Ewald, J., Dragovich, R., et al. (2024). Effects of progesterone on gender affirmation outcomes as part of feminizing hormone therapy. *Journal of the American Pharmacists Association*, 64(1), 268-272. <https://doi.org/10.1016/j.japh.2023.08.001>
-[^26]: Sam. (2021). An Exploration of Sublingual Estradiol as an Alternative to Oral Estradiol in Transfeminine People.  *Transfeminine Science*. <https://transfemscience.org/articles/sublingual-e2-transfem/> 【[譯文](https://tfsci.mtf.wiki/zh-tw/articles/sublingual-e2-transfem/)】
-[^27]: Rueda, C., Osorio, A. M., Avellaneda, A. C., et al. (2017). The efficacy and safety of estriol to treat vulvovaginal atrophy in postmenopausal women: a systematic literature review.  *Climacteric*, 20(4), 321–330. <https://doi.org/10.1080/13697137.2017.1329291>
-[^28]: Takahashi, K., Manabe, A., Okada, M., et al. (2000). Efficacy and safety of oral estriol for managing postmenopausal symptoms. *Maturitas*, 34(2), 169-177. <https://doi.org/10.1016/S0378-5122(99)00108-5>
-[^29]: Holtorf, K. (2009). The Bioidentical Hormone Debate: Are Bioidentical Hormones (Estradiol, Estriol, and Progesterone) Safer or More Efficacious than Commonly Used Synthetic Versions in Hormone Replacement Therapy?. *Postgraduate Medicine*, 121(1), 73–85. <https://doi.org/10.3810/pgm.2009.01.1949>
-[^30]: Stege, R., Gunnarsson, P. O., Johansson, C., et al. (1996). Pharmacokinetics and testosterone suppression of a single dose of polyestradiol phosphate (Estradurin®) in prostatic cancer patients. *The Prostate*, 28(5), 307–310. <https://doi.org/10.1002/(SICI)1097-0045(199605)28%3A5%3C307%3A%3AAID-PROS6%3E3.0.CO%3B2-8>
-[^31]: Aly. (2018). Oral Progesterone Achieves Very Low Levels of Progesterone and Has Only Weak Progestogenic Effects. *Transfeminine Science*. <https://transfemscience.org/articles/oral-p4-low-levels/> 【[譯文](https://tfsci.mtf.wiki/zh-tw/articles/oral-p4-low-levels/)】
-[^32]: Kuhl, H., & Schneider, H. P. G. (2013). Progesterone – promoter or inhibitor of breast cancer. *Climacteric*, 16(Suppl 1), 54–68. <https://doi.org/10.3109/13697137.2013.768806>
-[^33]: Zitzmann, M., Rohayem, J., Raidt, J., et al. (2017). Impact of various progestins with or without transdermal testosterone on gonadotropin levels for non-invasive hormonal male contraception: a randomized clinical trial. *Andrology*, 5(3), 516–526. <https://doi.org/10.1111/andr.12328>
-[^34]: Fung, R., Hellstern-Layefsky, M., & Lega, I. (2017). Is a lower dose of cyproterone acetate as effective at testosterone suppression in transgender women as higher doses?. *International Journal of Transgenderism*, 18(2), 123–128. <https://doi.org/10.1080/15532739.2017.1290566>
-[^35]: Irwig, M. S. (2021). Is there a role for 5α‐reductase inhibitors in transgender individuals?. *Andrology*, 9(6), 1729–1731. <https://doi.org/10.1111/andr.12881>
-[^36]: Yang, W., Hong, T., Chang, X., et al. (2024). The efficacy of and user satisfaction with different antiandrogens in Chinese transgender women. *International Journal of Transgender Health*, 25(3), 471–482. <https://doi.org/10.1080/26895269.2024.2323514>
-[^37]: Angus, L. M., Nolan, B. J., Zajac, J. D., et al. (2021). A systematic review of antiandrogens and feminization in transgender women. *Clinical Endocrinology*, 94(5), 743–752. <https://doi.org/10.1111/cen.14329>
-[^38]: AstraZeneca. (2017). CASODEX&reg; Prescribing Information. *Drugs@FDA*. <https://www.accessdata.fda.gov/drugsatfda_docs/label/2017/020498s028lbl.pdf> 【[譯文](https://tfsci.mtf.wiki/zh-tw/misc/casodex/)】
-[^39]: Neyman, A., Fuqua, J. S., & Eugster, E. A. (2019). Bicalutamide as an Androgen Blocker With Secondary Effect of Promoting Feminization in Male-to-Female Transgender Adolescents. *Journal of Adolescent Health*, 64(4), 544-546. <https://doi.org/10.1016/j.jadohealth.2018.10.296>
-[^40]: Pfizer. (2022). Prescribing Information: ALDACTONE&reg;. *Drugs@FDA*. <https://www.accessdata.fda.gov/drugsatfda_docs/label/2022/012151s079lbl.pdf> 【[譯文](https://tfsci.mtf.wiki/zh-tw/misc/aldactone/)】
-[^41]: Aly. (2020). Clinical Guidelines with Information on Transfeminine Hormone Therapy. *Transfeminine Science*. <https://transfemscience.org/articles/transfem-hormone-guidelines/> 【[譯文](https://tfsci.mtf.wiki/zh-tw/articles/transfem-hormone-guidelines/)】
-[^42]: Aly. (2019). An Exploration of Possibilities for Hormone Therapy in Non-Binary Transfeminine People. *Transfeminine Science*. <https://transfemscience.org/articles/nonbinary-transfem-overview/> 【[譯文](https://tfsci.mtf.wiki/zh-tw/articles/nonbinary-transfem-overview/)】
-[^43]: van Leerdam, T. R., Zajac, J. D., & Cheung, A. S. (2023). The Effect of Gender-Affirming Hormones on Gender Dysphoria, Quality of Life, and Psychological Functioning in Transgender Individuals: A Systematic Review. *Transgender Health*, 8(1), 6-21. <https://doi.org/10.1089/trgh.2020.0094>
-[^44]: Eli Lilly and Company. EVISTA&reg; Prescribing Information [EB/OL]. *Drugs@FDA*, 2018. <https://www.accessdata.fda.gov/drugsatfda_docs/label/2018/020815s034lbl.pdf> 【[譯文](https://tfsci.mtf.wiki/zh-tw/misc/evista/)】
-[^45]: Rost, A., Schmidt‐Gollwitzer, M., Hantelmann, W., & Brosig, W. (1981). Cyproterone acetate, testosterone, LH, FSH, and prolactin levels in plasma after intramuscular application of cyproterone acetate in patients with prostatic cancer. *The Prostate*, 2(3), 315-322. <https://doi.org/10.1002/pros.2990020310>
+
+[^7]: Aly. (2020). Approximate Comparable Dosages of Estradiol by Different Routes. _Transfeminine Science_. <https://transfemscience.org/articles/e2-equivalent-doses/> 【[譯文](https://tfsci.mtf.wiki/articles/e2-equivalent-doses/)】
+
+[^8]: Jorgensen, S. C. J. (2023). Transition Regret and Detransition: Meanings and Uncertainties. _Archives of Sexual Behavior_, 52(5), 2173–2184. <https://doi.org/10.1007/s10508-023-02626-2>
+
+[^9]: Aly. (2021). An Informal Meta-Analysis of Estradiol Curves with Injectable Estradiol Preparations. _Transfeminine Science_. <https://transfemscience.org/articles/injectable-e2-meta-analysis/> 【[譯文](https://tfsci.mtf.wiki/zh-tw/articles/injectable-e2-meta-analysis/)】
+
+[^10]: Aly. (2020). Bicalutamide and its Adoption by the Medical Community for Use in Transfeminine Hormone Therapy. _Transfeminine Science_. <https://transfemscience.org/articles/bica-adoption/> 【[譯文](https://tfsci.mtf.wiki/zh-tw/articles/bica-adoption/)】
+
+[^11]: REX Medical Ltd. (2020). New Zealand Datasheet: SITERONE. _Medsafe_. <https://www.medsafe.govt.nz/profs/datasheet/s/Siteronetab.pdf> 【[譯文](https://tfsci.mtf.wiki/zh-tw/misc/siterone-nz/)】
+
+[^12]: Ainsworth, A. J., Allyse, M., Khan, Z. (2020). Fertility Preservation for Transgender Individuals: A Review. _Mayo Clinic Proceedings_, 95(4), 784-792. <https://doi.org/10.1016/j.mayocp.2019.10.040>
+
+[^13]: Mitzi. (2022). Puberty Blockers: A Review of GnRH Analogues in Transgender Youth. _Transfeminine Science_. <https://transfemscience.org/articles/puberty-blockers/> 【[譯文](https://tfsci.mtf.wiki/zh-tw/articles/puberty-blockers/)】
+
+[^14]: Aly. (2020). Estrogens and Their Influences on Coagulation and Risk of Blood Clots. _Transfeminine Science_. <https://transfemscience.org/articles/estrogens-blood-clots/> 【[譯文](https://tfsci.mtf.wiki/zh-tw/articles/estrogens-blood-clots/)】
+
+[^15]: Nolan, B. J., & Cheung, A. S. (2021). Relationship Between Serum Estradiol Concentrations and Clinical Outcomes in Transgender Individuals Undergoing Feminizing Hormone Therapy: A Narrative Review. _Transgender Health_, _6_(3), 125–131. <https://doi.org/10.1089/trgh.2020.0077>
+
+[^16]: Novartis. (2017). ESTRADERM&reg; Prescribing Information & Patient Information. _Drugs@FDA_. <https://www.accessdata.fda.gov/drugsatfda_docs/label/2012/019081s042lbl.pdf> 【[譯文](https://tfsci.mtf.wiki/zh-tw/misc/estraderm/)】
+
+[^17]: Aly. (2020). Recent Developments on Cyproterone Acetate and Meningioma Risk Out of France and Implications for Transfeminine People. _Transfeminine Science_. <https://transfemscience.org/articles/cpa-meningioma/> 【[譯文](https://tfsci.mtf.wiki/zh-tw/articles/cpa-meningioma/)】
+
+[^18]: Cox, L. R., & Crawford, D. E. (1995). Estrogens in the Treatment of Prostate Cancer. _The Journal of Urology_, 154(6), 1991-1998. <https://doi.org/10.1016/S0022-5347(01)66670-9>
+
+[^19]: Nishiyama, T. (2014). Serum testosterone levels after medical or surgical androgen deprivation: A comprehensive review of the literature. _Urologic Oncology: Seminars and Original Investigations_, 32(1), 38.e17-38.e28. <https://doi.org/10.1016/j.urolonc.2013.03.007>
+
+[^20]: Mitzi. Puberty Blockers: A Review of GnRH Analogues in Transgender Youth [EB/OL]. _Transfeminine Science_, 2022. <https://transfemscience.org/articles/puberty-blockers/> 【[译文](https://tfsci.mtf.wiki/zh-cn/articles/puberty-blockers/)】
+
+[^21]: Aly. (2018). A Review of Studies on Spironolactone and Testosterone Suppression in Cisgender Men, Cisgender Women, and Transfeminine People. _Transfeminine Science_. <https://transfemscience.org/articles/spiro-testosterone/> 【[譯文](https://tfsci.mtf.wiki/zh-tw/articles/spiro-testosterone/)】
+
+[^22]: Aly. (2019). Low Doses of Cyproterone Acetate Are Maximally Effective for Testosterone Suppression in Transfeminine People. _Transfeminine Science_. <https://transfemscience.org/articles/cpa-dosage/> 【[譯文](https://tfsci.mtf.wiki/zh-tw/articles/cpa-dosage/)】
+
+[^23]: Aly. (2020). A Comprehensive Review of the Potential of Progestogens for Enhancing Breast Development in Transfeminine People. _Transfeminine Science_. <https://transfemscience.org/articles/progestogens-breast-dev/> 【[譯文](https://tfsci.mtf.wiki/zh-tw/articles/progestogens-breast-dev/)】
+
+[^24]: Aly. (2020). Breast Cancer Risk with Hormone Therapy in Transfeminine People. _Transfeminine Science_. <https://transfemscience.org/articles/breast-cancer/> 【[譯文](https://tfsci.mtf.wiki/zh-tw/articles/breast-cancer/)】
+
+[^25]: Bahr, C., Ewald, J., Dragovich, R., et al. (2024). Effects of progesterone on gender affirmation outcomes as part of feminizing hormone therapy. _Journal of the American Pharmacists Association_, 64(1), 268-272. <https://doi.org/10.1016/j.japh.2023.08.001>
+
+[^26]: Sam. (2021). An Exploration of Sublingual Estradiol as an Alternative to Oral Estradiol in Transfeminine People.  _Transfeminine Science_. <https://transfemscience.org/articles/sublingual-e2-transfem/> 【[譯文](https://tfsci.mtf.wiki/zh-tw/articles/sublingual-e2-transfem/)】
+
+[^27]: Rueda, C., Osorio, A. M., Avellaneda, A. C., et al. (2017). The efficacy and safety of estriol to treat vulvovaginal atrophy in postmenopausal women: a systematic literature review.  _Climacteric_, 20(4), 321–330. <https://doi.org/10.1080/13697137.2017.1329291>
+
+[^28]: Takahashi, K., Manabe, A., Okada, M., et al. (2000). Efficacy and safety of oral estriol for managing postmenopausal symptoms. _Maturitas_, 34(2), 169-177. <https://doi.org/10.1016/S0378-5122(99)00108-5>
+
+[^29]: Holtorf, K. (2009). The Bioidentical Hormone Debate: Are Bioidentical Hormones (Estradiol, Estriol, and Progesterone) Safer or More Efficacious than Commonly Used Synthetic Versions in Hormone Replacement Therapy?. _Postgraduate Medicine_, 121(1), 73–85. <https://doi.org/10.3810/pgm.2009.01.1949>
+
+[^30]: Stege, R., Gunnarsson, P. O., Johansson, C., et al. (1996). Pharmacokinetics and testosterone suppression of a single dose of polyestradiol phosphate (Estradurin®) in prostatic cancer patients. _The Prostate_, 28(5), 307–310. <https://doi.org/10.1002/(SICI)1097-0045(199605)28%3A5%3C307%3A%3AAID-PROS6%3E3.0.CO%3B2-8>
+
+[^31]: Aly. (2018). Oral Progesterone Achieves Very Low Levels of Progesterone and Has Only Weak Progestogenic Effects. _Transfeminine Science_. <https://transfemscience.org/articles/oral-p4-low-levels/> 【[譯文](https://tfsci.mtf.wiki/zh-tw/articles/oral-p4-low-levels/)】
+
+[^32]: Kuhl, H., & Schneider, H. P. G. (2013). Progesterone – promoter or inhibitor of breast cancer. _Climacteric_, 16(Suppl 1), 54–68. <https://doi.org/10.3109/13697137.2013.768806>
+
+[^33]: Zitzmann, M., Rohayem, J., Raidt, J., et al. (2017). Impact of various progestins with or without transdermal testosterone on gonadotropin levels for non-invasive hormonal male contraception: a randomized clinical trial. _Andrology_, 5(3), 516–526. <https://doi.org/10.1111/andr.12328>
+
+[^34]: Fung, R., Hellstern-Layefsky, M., & Lega, I. (2017). Is a lower dose of cyproterone acetate as effective at testosterone suppression in transgender women as higher doses?. _International Journal of Transgenderism_, 18(2), 123–128. <https://doi.org/10.1080/15532739.2017.1290566>
+
+[^35]: Irwig, M. S. (2021). Is there a role for 5α‐reductase inhibitors in transgender individuals?. _Andrology_, 9(6), 1729–1731. <https://doi.org/10.1111/andr.12881>
+
+[^36]: Yang, W., Hong, T., Chang, X., et al. (2024). The efficacy of and user satisfaction with different antiandrogens in Chinese transgender women. _International Journal of Transgender Health_, 25(3), 471–482. <https://doi.org/10.1080/26895269.2024.2323514>
+
+[^37]: Angus, L. M., Nolan, B. J., Zajac, J. D., et al. (2021). A systematic review of antiandrogens and feminization in transgender women. _Clinical Endocrinology_, 94(5), 743–752. <https://doi.org/10.1111/cen.14329>
+
+[^38]: AstraZeneca. (2017). CASODEX&reg; Prescribing Information. _Drugs@FDA_. <https://www.accessdata.fda.gov/drugsatfda_docs/label/2017/020498s028lbl.pdf> 【[譯文](https://tfsci.mtf.wiki/zh-tw/misc/casodex/)】
+
+[^39]: Neyman, A., Fuqua, J. S., & Eugster, E. A. (2019). Bicalutamide as an Androgen Blocker With Secondary Effect of Promoting Feminization in Male-to-Female Transgender Adolescents. _Journal of Adolescent Health_, 64(4), 544-546. <https://doi.org/10.1016/j.jadohealth.2018.10.296>
+
+[^40]: Pfizer. (2022). Prescribing Information: ALDACTONE&reg;. _Drugs@FDA_. <https://www.accessdata.fda.gov/drugsatfda_docs/label/2022/012151s079lbl.pdf> 【[譯文](https://tfsci.mtf.wiki/zh-tw/misc/aldactone/)】
+
+[^41]: Aly. (2020). Clinical Guidelines with Information on Transfeminine Hormone Therapy. _Transfeminine Science_. <https://transfemscience.org/articles/transfem-hormone-guidelines/> 【[譯文](https://tfsci.mtf.wiki/zh-tw/articles/transfem-hormone-guidelines/)】
+
+[^42]: Aly. (2019). An Exploration of Possibilities for Hormone Therapy in Non-Binary Transfeminine People. _Transfeminine Science_. <https://transfemscience.org/articles/nonbinary-transfem-overview/> 【[譯文](https://tfsci.mtf.wiki/zh-tw/articles/nonbinary-transfem-overview/)】
+
+[^43]: van Leerdam, T. R., Zajac, J. D., & Cheung, A. S. (2023). The Effect of Gender-Affirming Hormones on Gender Dysphoria, Quality of Life, and Psychological Functioning in Transgender Individuals: A Systematic Review. _Transgender Health_, 8(1), 6-21. <https://doi.org/10.1089/trgh.2020.0094>
+
+[^44]: Eli Lilly and Company. EVISTA&reg; Prescribing Information [EB/OL]. _Drugs@FDA_, 2018. <https://www.accessdata.fda.gov/drugsatfda_docs/label/2018/020815s034lbl.pdf> 【[譯文](https://tfsci.mtf.wiki/zh-tw/misc/evista/)】
+
+[^45]: Rost, A., Schmidt‐Gollwitzer, M., Hantelmann, W., & Brosig, W. (1981). Cyproterone acetate, testosterone, LH, FSH, and prolactin levels in plasma after intramuscular application of cyproterone acetate in patients with prostatic cancer. _The Prostate_, 2(3), 315-322. <https://doi.org/10.1002/pros.2990020310>
 
 [^97]: 北同文化. (2021-12-26). \[中國大陸] 2021 全國跨性別健康調研報告. 【[PDF 檔案](https://cnlgbtdata.com/files/uploads/2023/01/2021%E5%85%A8%E5%9B%BD%E8%B7%A8%E6%80%A7%E5%88%AB%E5%81%A5%E5%BA%B7%E8%B0%83%E7%A0%94%E6%8A%A5%E5%91%8A.pdf)】
+
+[^98]: 使用方便且靈活；<br>給藥較持久；<br>獲取較便利
+
+[^99]: 国家药监局综合司. 关于《药品网络销售禁止清单（第一版）》有关问题的复函 [EB/OL]. (2023-07-10). <https://www.nmpa.gov.cn/xxgk/fgwj/gzwj/gzwjyp/20230710110515153.html>
