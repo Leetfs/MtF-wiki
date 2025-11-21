@@ -1,29 +1,29 @@
 ---
-title: "MtF.wiki について"
+title: "关于我们"
 description: "MtF.wiki は、トランス関連の医療と生活情報が手に入れる、フリー・オープン継続的に更新される知識統合サイトになることを目指しています。"
-weight: 0
 hidden-timeliness: true
+weight: 0
 ---
 
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.5.0/font/bootstrap-icons.css">
 
 <img src="/new/mtf-wiki-long.svg" style="background-color:none;border:none;padding:16px 16px 32px" alt="MtF.wiki"/>
 
-{{< project-trans >}} が運営する {{< mtf-wiki >}} は、トランス関連の医療と生活情報が手に入れる、フリー・オープン継続的に更新される知識統合サイトになることを目指しています。
+{{< mtf-wiki >}} 由 {{< project-trans >}} 维护，致力于成为一个免费开放且持续更新的跨性别女性知识整合站点
 
 私達の <i class="bi bi-github" aria-label="GitHub"></i> GitHub レポジトリ：[project-trans/mtf-wiki](https://github.com/project-trans/MtF-wiki)
 
+本项目
+
 <i class="bi bi-link-45deg" aria-label="Website"></i> 私達のサイト：<https://MtF.wiki>
 
-関連ウィキとして、男性への性別移行ウィキ：<https://FtM.wiki> があります。
+兄弟站：<https://FtM.wiki>
 
 これらの GitHub の貢献者に感謝します：
 
 {{< github/contributors >}}
 
 そして私に助けと情報を与えてくれる他の素敵な人たち。
-
-参加したい場合はご連絡ください！
 
 ## 連絡先
 
@@ -35,9 +35,7 @@ Twitter {{< shields/twitter MtFwikiJapan >}}
 
 ## 感謝
 
-日本語版の作成にあたって特に感謝：<http://wasadasan.com/voice2/hormon-byouin/>
-
-執筆の過程で多くの資料を参考にすることができました。資料の作者様にも感謝いたします。
+執筆の過程で多くの資料を参考にすることができました。 資料の作者様にも感謝いたします。
 
 ---
 
