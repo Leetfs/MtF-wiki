@@ -1,17 +1,19 @@
 ---
 title: "Acerca de nosotras"
 description: "La MtF.wiki se compromete a ser un sitio de integración de conocimientos transgénero gratuito , abierto y continuamente actualizado,"
-weight: 0
 hidden-timeliness: true
+weight: 0
 ---
 
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.5.0/font/bootstrap-icons.css">
 
 <img src="/new/mtf-wiki-long.svg" style="background-color:none;border:none;padding:16px 16px 32px" alt="MtF.wiki"/>
 
-La {{< mtf-wiki >}} se compromete a ser un sitio de integración de conocimientos transgénero gratuito , abierto y continuamente actualizado, mantenido por {{< project-trans >}}.
+{{< mtf-wiki >}} 由 {{< project-trans >}} 维护，致力于成为一个免费开放且持续更新的跨性别女性知识整合站点
 
 <i class="bi bi-github" aria-label="GitHub"></i> GitHub Repo del proyecto: [project-trans/mtf-wiki](https://github.com/project-trans/MtF-wiki)
+
+本项目
 
 <i class="bi bi-link-45deg" aria-label="Website"></i> Sitio del proyecto: <https://MtF.wiki>
 
@@ -22,8 +24,6 @@ Gracias a los contribuyentes de GitHub:
 {{< github/contributors >}}
 
 y los otros queridos que nos dan ayuda y información.
-
-**¡Contáctanos si quieres unirte!**
 
 ## Contacto
 
